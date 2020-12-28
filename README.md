@@ -61,7 +61,7 @@
 ---
 <p align="left">
   
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pm-raselalmamun&show_icons=true&theme=tokyonight&line_height=38" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pm-raselalmamun&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pm-raselalmamun&count_private=true&theme=tokyonight">
 
 </p>
